@@ -1,3 +1,3 @@
 En dev
 
-# Disponibilité lors de la V2.
+# Disponibilité lors de la V3.
